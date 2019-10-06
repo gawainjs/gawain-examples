@@ -1,0 +1,14 @@
+{
+  "name": "pong",
+  "private": true,
+  "version": "0.0.0",
+  "description": "pong game",
+  "scripts": {
+    "build": "gawain build ./src/entrypoint.js"
+  },
+  "author": "JongChan Choi",
+  "license": "MIT",
+  "dependencies": {
+    "gawain": "0.0.1"
+  }
+}
